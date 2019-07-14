@@ -1,0 +1,20 @@
+{
+  "name": "node-mongo-sequelize",
+  "version": "1.0.0",
+  "description": "Exemplo de API em Node.js usando Mongoose e Sequelize",
+  "scripts": {
+    "start": "npx babel-node src"
+  },
+  "dependencies": {
+    "express": "^4.17.0",
+    "mongoose": "^5.6.2",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "sequelize-cli": "^5.5.0"
+  }
+}
