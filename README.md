@@ -1,4 +1,4 @@
-# node-mongoose
+# node-mongoose-sequelize
 Exemplo de API em Node.js usando Mongoose e Sequelize
 
 ## Instalar dependências
